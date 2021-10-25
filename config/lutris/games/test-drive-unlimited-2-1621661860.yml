@@ -1,0 +1,16 @@
+game:
+  exe: /home/enzo/Dados/Games/Test Drive Unlimited 2/TDU2_Universal_Launcher.exe
+  prefix: ~/Dados/wine-prefixes/tdu2
+system:
+  disable_compositor: true
+  disable_screen_saver: true
+  gamemode: true
+  mangohud: ''
+  prefer_system_libs: true
+  prefix_command: DRI_PRIME=1 mangohud
+wine:
+  dxvk_version: v1.9L-8b6ac52
+  esync: true
+  fsync: true
+  version: lutris-6.4-x86_64
+  x360ce-dinput: true

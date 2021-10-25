@@ -1,0 +1,14 @@
+game:
+  arch: win64
+  exe: /home/enzo/Dados/Games/USBHelper/USBHelperLauncher.exe
+  prefix: ~/Dados/Games/cemu
+system:
+  disable_runtime: true
+  dri_prime: false
+  gamemode: false
+  prefer_system_libs: false
+  vk_icd: /usr/share/vulkan/icd.d/radeon_icd.i686.json:/usr/share/vulkan/icd.d/radeon_icd.x86_64.json
+wine:
+  Desktop: true
+  ShowCrashDialog: true
+  WineDesktop: 1360x768

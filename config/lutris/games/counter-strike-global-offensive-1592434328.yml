@@ -1,0 +1,6 @@
+game:
+  appid: '730'
+steam: {}
+system:
+  aco: true
+  prefix_command: mangohud

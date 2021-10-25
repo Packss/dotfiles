@@ -1,0 +1,13 @@
+{
+  "show_fast_flag_warning": false,
+  "wine_binary": "/home/enzo/.local/share/grapejuice/user/wine-download/wine-tkg-staging-fsync-git-6.18.r0.gf8851f16/bin/wine",
+  "dll_overrides": "ucrtbase=n,b;api-ms-win-crt-private-l1-1-0=n,b;dxdiagn=;winemenubuilder.exe=",
+  "no_daemon_mode": true,
+  "release_channel": "master",
+  "env": {
+    "DRI_PRIME": "1",
+    "MANGOHUD": "1"
+  },
+  "enabled_tweaks": [],
+  "disable_updates": false
+}

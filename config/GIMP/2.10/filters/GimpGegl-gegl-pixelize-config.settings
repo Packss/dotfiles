@@ -1,0 +1,25 @@
+# settings
+
+(GimpGegl-gegl-pixelize-config "2020-12-28 21:25:15"
+    (time 1609201515)
+    (gimp-region drawable)
+    (norm square)
+    (size-x 6)
+    (size-y 6)
+    (offset-x 0)
+    (offset-y 0)
+    (ratio-x 1)
+    (ratio-y 1)
+    (background (color-rgba 1 1 1 1)))
+(GimpGegl-gegl-pixelize-config "2020-12-28 21:22:09"
+    (time 1609201329)
+    (norm square)
+    (size-x 16)
+    (size-y 16)
+    (offset-x 0)
+    (offset-y 0)
+    (ratio-x 1)
+    (ratio-y 1)
+    (background (color-rgba 1 1 1 1)))
+
+# end of settings

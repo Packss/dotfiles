@@ -1,0 +1,7 @@
+system:
+  aco: true
+  disable_runtime: false
+  disable_screen_saver: true
+  game_path: ~/Dados/Games
+  prefer_system_libs: true
+  pulse_latency: true

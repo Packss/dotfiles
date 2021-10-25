@@ -1,0 +1,25 @@
+game:
+  arch: win64
+  exe: /home/enzo/Dados/Games/My.Summer.Car.v08.07.2021/mysummercar.exe
+  prefix: ~/Dados/wine-prefixes/my-summer-car
+  working_dir: ~/Dados/Games/My.Summer.Car.v08.07.2021
+system:
+  aco: true
+  disable_compositor: true
+  disable_runtime: false
+  disable_screen_saver: true
+  dri_prime: true
+  gamemode: true
+  mangohud: ''
+  prefer_system_libs: true
+  prefix_command: DRI_PRIME=1 mangohud
+  vk_icd: /usr/share/vulkan/icd.d/amd_pro_icd64.json
+wine:
+  dxvk: true
+  dxvk_nvapi: false
+  dxvk_version: v1.9.1L-2
+  esync: true
+  fsync: true
+  system_winetricks: true
+  version: lutris-fshack-6.14-3-x86_64
+  vkd3d: false

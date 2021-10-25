@@ -1,0 +1,78 @@
+22:13:06.819: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+22:13:06.820: CPU Speed: 1600.000MHz
+22:13:06.832: Physical Cores: 4, Logical Cores: 8
+22:13:06.832: Physical Memory: 14891MB Total, 1887MB Free
+22:13:06.832: Kernel Version: Linux 5.14.12-zen1-1-zen
+22:13:06.832: Distribution: "Arch Linux" Unknown
+22:13:06.832: Session Type: wayland
+22:13:06.832: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+22:13:06.835: Portable mode: false
+22:13:06.942: OBS 27.1.0.rc2.r29.g1f504c6ba (linux)
+22:13:06.942: ---------------------------------
+22:13:07.076: ---------------------------------
+22:13:07.076: audio settings reset:
+22:13:07.076: 	samples per sec: 48000
+22:13:07.076: 	speakers:        2
+22:13:07.083: ---------------------------------
+22:13:07.084: Initializing OpenGL...
+22:13:07.185: Loading up OpenGL on adapter AMD AMD ICELAND (DRM 3.42.0, 5.14.12-zen1-1-zen, LLVM 12.0.1)
+22:13:07.186: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.4, shading language 4.60
+22:13:07.269: ---------------------------------
+22:13:07.269: video settings reset:
+22:13:07.269: 	base resolution:   1920x1080
+22:13:07.269: 	output resolution: 1280x720
+22:13:07.269: 	downscale filter:  Bicubic
+22:13:07.269: 	fps:               30/1
+22:13:07.269: 	format:            NV12
+22:13:07.269: 	YUV mode:          709/Partial
+22:13:07.269: NV12 texture support not available
+22:13:07.285: Audio monitoring device:
+22:13:07.285: 	name: Padrão
+22:13:07.285: 	id: default
+22:13:07.286: ---------------------------------
+22:13:07.290: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22:13:07.294: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+22:13:07.569: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22:13:07.569: No blackmagic support
+22:13:07.593: v4l2loopback not installed, virtual camera disabled
+22:13:07.605: [obs-browser]: Version 2.16.1
+22:13:07.605: [obs-browser]: CEF Version 88.2.8+ge484012+chromium-88.0.4324.150
+22:13:07.647: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: não é possível abrir arquivo compartilhado: Arquivo ou diretório inexistente
+22:13:07.647: 
+22:13:07.647: FFMPEG VAAPI supported
+22:13:07.702: VLC found, VLC video source enabled
+22:13:07.723: ---------------------------------
+22:13:07.723:   Loaded Modules:
+22:13:07.723:     vlc-video.so
+22:13:07.723:     text-freetype2.so
+22:13:07.723:     rtmp-services.so
+22:13:07.723:     obs-x264.so
+22:13:07.723:     obs-vst.so
+22:13:07.723:     obs-transitions.so
+22:13:07.723:     obs-outputs.so
+22:13:07.723:     obs-libfdk.so
+22:13:07.723:     obs-filters.so
+22:13:07.723:     obs-ffmpeg.so
+22:13:07.723:     obs-browser.so
+22:13:07.723:     linux-v4l2.so
+22:13:07.723:     linux-pulseaudio.so
+22:13:07.723:     linux-jack.so
+22:13:07.723:     linux-decklink.so
+22:13:07.723:     linux-capture.so
+22:13:07.723:     linux-alsa.so
+22:13:07.723:     image-source.so
+22:13:07.723:     frontend-tools.so
+22:13:07.723:     decklink-ouput-ui.so
+22:13:07.723:     decklink-captions.so
+22:13:07.723: ---------------------------------
+22:13:07.724: ==== Startup complete ===============================================
+22:13:07.740: All scene data cleared
+22:13:07.740: ------------------------------------------------
+22:13:07.762: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.38) 15.0.0'
+22:13:07.763: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+22:13:07.763: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor'
+22:13:07.763: [Loaded global audio device]: 'Áudio do desktop'
+22:13:07.764: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.38) 15.0.0'
+22:13:07.764: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+22:13:07.764: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.analog-stereo'
+22:13:07.764: [Loaded global audio device]: 'Mic/Aux'
