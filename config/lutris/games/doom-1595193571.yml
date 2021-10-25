@@ -1,8 +1,0 @@
-game:
-  appid: '379720'
-steam:
-  steam_native_runtime: false
-system:
-  aco: true
-  dri_prime: true
-  prefix_command: gamemoderun

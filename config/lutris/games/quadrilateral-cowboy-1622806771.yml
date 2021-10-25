@@ -1,8 +1,0 @@
-game:
-  exe: /home/enzo/Dados/Games/Quadrilateral Cowboy/qc.exe
-  prefix: ~/Dados/wine-prefixes/quadrilateral-cowboy
-system:
-  prefix_command: DRI_PRIME=1 mangohud
-wine:
-  esync: true
-  fsync: true

@@ -1,7 +1,0 @@
-system:
-  disable_runtime: false
-steam:
-  steam_native_runtime: true
-game:
-  appid: '227300'
-null: {}

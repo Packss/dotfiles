@@ -1,8 +1,0 @@
-game:
-  appid: '284160'
-  run_without_steam: true
-  steamless_binary: /home/enzo/Dados/SteamLibrary/steamapps/common/BeamNG.drive/BeamNG.drive.exe
-steam: {}
-system:
-  disable_runtime: true
-  mangohud: vk64

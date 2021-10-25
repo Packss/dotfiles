@@ -1,6 +1,0 @@
-game:
-  exe: /home/enzo/Dados/Games/Driver - San Francisco/Driver.exe
-  prefix: ~/Dados/wine-prefixes/driver-sa
-system: {}
-wine:
-  version: lutris-fshack-6.14-3-x86_64

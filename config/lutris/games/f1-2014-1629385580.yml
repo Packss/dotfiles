@@ -1,9 +1,0 @@
-game:
-  exe: /home/enzo/Dados/Games/F1 2014/F1_2014.exe
-  prefix: ~/Dados/wine-prefixes/f1_2014
-  working_dir: ~/Dados/Games/F1 2014
-system:
-  dri_prime: true
-wine:
-  esync: true
-  fsync: true
