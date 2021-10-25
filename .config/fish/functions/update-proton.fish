@@ -1,6 +1,6 @@
 function update-proton
 	set url "https://api.github.com/repos/GloriousEggroll/proton-ge-custom/releases/latest"
-	set -xl response (curl -H "Authorization: token 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" -s $url)
+	set -xl response (curl -H "Authorization: token $GIT_TOKEN" -s $url)
 	set -xl dl_url (echo $response | jq -r .assets[].browser_download_url | grep tar)
 	set -xl proton_latest_ver (echo $response | jq -r .tag_name)
 	set -xl proton_install_path "$HOME/.steam/root/compatibilitytools.d"
