@@ -1,0 +1,19 @@
+# GIMP gimp-clone-tool options
+
+(foreground (color-rgb 0.015686275437474251 0.023529414087533951 0.027450982481241226))
+(background (color-rgb 0.57647061347961426 0.87450987100601196 1))
+(brush "2. Hardness 100")
+(dynamics "Dynamics Off")
+(pattern "Clipboard Image")
+(palette "Standard")
+(brush-size 4)
+(brush-spacing 0.10099999999999999)
+(brush-hardness 0.17000000000000001)
+(brush-force 0.16)
+(dynamics-expanded yes)
+(fade-length 112)
+(fade-repeat truncate)
+(fade-unit percent)
+(clone-type pattern)
+
+# end of gimp-clone-tool options

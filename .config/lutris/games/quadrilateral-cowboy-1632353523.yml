@@ -1,0 +1,6 @@
+game:
+  exe: /home/enzo/Dados/Games/Quadrilateral Cowboy/qc.exe
+  prefix: ~/Dados/wine-prefixes/quadrilateral-cowboy
+system: {}
+wine:
+  version: lutris-fshack-6.14-3-x86_64

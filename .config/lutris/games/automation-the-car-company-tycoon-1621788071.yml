@@ -1,0 +1,10 @@
+game:
+  arch: auto
+  exe: /home/enzo/Dados/Games/Automation/UE424/AutomationGame.exe
+  prefix: ~/Dados/wine-prefixes/automation
+system:
+  disable_runtime: false
+  prefer_system_libs: true
+wine:
+  esync: true
+  fsync: true

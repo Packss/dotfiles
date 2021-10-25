@@ -1,0 +1,18 @@
+game:
+  exe: /home/enzo/Dados/Games/My.Summer.Car.v04.09.2021/mysummercar.exe
+  prefix: ~/Dados/wine-prefixes/my-summer-car
+system:
+  disable_compositor: true
+  disable_runtime: false
+  gamemode: true
+  mangohud: ''
+  prefer_system_libs: true
+  pulse_latency: true
+  single_cpu: false
+  vk_icd: ''
+wine:
+  Desktop: false
+  WineDesktop: 1366x768
+  fsr: false
+  fsync: true
+  vkd3d_version: v2.4L-a19619c

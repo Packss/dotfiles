@@ -1,0 +1,12 @@
+game:
+  exe: /home/enzo/Dados/Games/Kerbal Space Program Shared Horizons/KSP_x64.exe
+  prefix: ~/Dados/wine-prefixes/kerbal-space-program
+  working_dir: ~/Dados/Games/Kerbal Space Program Shared Horizons
+system:
+  prefer_system_libs: false
+  prefix_command: DRI_PRIME=1 mangohud
+wine:
+  dxvk: true
+  esync: true
+  fsync: true
+  version: lutris-6.0-rc1-x86_64

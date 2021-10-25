@@ -1,0 +1,19 @@
+game:
+  arch: win64
+  args: -opengl -SkipBuildPatchPrereq
+  exe: drive_c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe
+  prefix: /home/enzo/Dados/Games/epic-games-store
+system:
+  disable_runtime: true
+  dri_prime: true
+  env:
+    DXVK_HUD: compiler
+    MESA_GL_VERSION_OVERRIDE: 4.4COMPAT
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/enzo/Dados/Games/epic-games-store
+  vk_icd: ''
+wine:
+  esync: true
+  fsync: true
+  version: lutris-fshack-6.14-4-x86_64
+  vkd3d: false

@@ -1,0 +1,6 @@
+# GIMP gimp-ellipse-select-tool options
+
+(operation add)
+(antialias no)
+
+# end of gimp-ellipse-select-tool options

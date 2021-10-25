@@ -1,0 +1,87 @@
+13:25:42.519: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+13:25:42.519: CPU Speed: 1600.000MHz
+13:25:42.520: Physical Cores: 4, Logical Cores: 8
+13:25:42.520: Physical Memory: 14892MB Total, 4311MB Free
+13:25:42.520: Kernel Version: Linux 5.14.7-zen1-1-zen
+13:25:42.520: Distribution: "Arch Linux" Unknown
+13:25:42.521: Session Type: wayland
+13:25:42.521: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+13:25:42.524: Portable mode: false
+13:25:42.597: OBS 27.1.0.rc3.r8.g10810d973 (linux)
+13:25:42.597: ---------------------------------
+13:25:42.598: ---------------------------------
+13:25:42.598: audio settings reset:
+13:25:42.598: 	samples per sec: 48000
+13:25:42.598: 	speakers:        2
+13:25:42.601: ---------------------------------
+13:25:42.601: Initializing OpenGL...
+13:25:44.938: Loading up OpenGL on adapter AMD AMD ICELAND (DRM 3.42.0, 5.14.7-zen1-1-zen, LLVM 12.0.1)
+13:25:44.939: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.2, shading language 4.60
+13:25:45.015: ---------------------------------
+13:25:45.015: video settings reset:
+13:25:45.015: 	base resolution:   1920x1080
+13:25:45.015: 	output resolution: 1280x720
+13:25:45.015: 	downscale filter:  Bicubic
+13:25:45.015: 	fps:               30/1
+13:25:45.015: 	format:            NV12
+13:25:45.015: 	YUV mode:          709/Partial
+13:25:45.015: NV12 texture support not available
+13:25:45.028: Audio monitoring device:
+13:25:45.028: 	name: Padrão
+13:25:45.028: 	id: default
+13:25:45.028: ---------------------------------
+13:25:45.032: Failed to load 'en-US' text for module: 'decklink-captions.so'
+13:25:45.036: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+13:25:45.253: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:25:45.253: No blackmagic support
+13:25:45.273: v4l2loopback not installed, virtual camera disabled
+13:25:45.280: [obs-browser]: Version 2.16.1
+13:25:45.280: [obs-browser]: CEF Version 88.2.8+ge484012+chromium-88.0.4324.150
+13:25:45.291: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: não é possível abrir arquivo compartilhado: Arquivo ou diretório inexistente
+13:25:45.291: 
+13:25:45.291: FFMPEG VAAPI supported
+13:25:45.336: VLC found, VLC video source enabled
+13:25:45.336: ---------------------------------
+13:25:45.336:   Loaded Modules:
+13:25:45.336:     vlc-video.so
+13:25:45.336:     text-freetype2.so
+13:25:45.336:     rtmp-services.so
+13:25:45.336:     obs-x264.so
+13:25:45.336:     obs-vst.so
+13:25:45.336:     obs-transitions.so
+13:25:45.336:     obs-outputs.so
+13:25:45.336:     obs-libfdk.so
+13:25:45.336:     obs-filters.so
+13:25:45.336:     obs-ffmpeg.so
+13:25:45.336:     obs-browser.so
+13:25:45.336:     linux-v4l2.so
+13:25:45.336:     linux-pulseaudio.so
+13:25:45.336:     linux-jack.so
+13:25:45.336:     linux-decklink.so
+13:25:45.336:     linux-capture.so
+13:25:45.336:     linux-alsa.so
+13:25:45.336:     image-source.so
+13:25:45.336:     frontend-tools.so
+13:25:45.336:     decklink-ouput-ui.so
+13:25:45.336:     decklink-captions.so
+13:25:45.337: ---------------------------------
+13:25:45.337: ==== Startup complete ===============================================
+13:25:45.345: All scene data cleared
+13:25:45.345: ------------------------------------------------
+13:25:45.369: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.37) 15.0.0'
+13:25:45.370: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+13:25:45.370: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor'
+13:25:45.370: [Loaded global audio device]: 'Áudio do desktop'
+13:25:45.371: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.37) 15.0.0'
+13:25:45.371: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+13:25:45.372: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.analog-stereo'
+13:25:45.372: [Loaded global audio device]: 'Mic/Aux'
+13:25:45.373: Switched to scene 'Cena'
+13:25:45.373: ------------------------------------------------
+13:25:45.373: Loaded scenes:
+13:25:45.373: - scene 'Cena':
+13:25:45.373: ------------------------------------------------
+13:25:45.939: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+13:25:45.939: 
+13:26:30.089: Settings changed (outputs)
+13:26:30.089: ------------------------------------------------

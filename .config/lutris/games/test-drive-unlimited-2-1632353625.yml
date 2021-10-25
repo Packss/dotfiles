@@ -1,0 +1,15 @@
+game:
+  arch: win64
+  exe: /home/enzo/Dados/Games/Test Drive Unlimited 2/TDU2_Universal_Launcher.exe
+  prefix: ~/Dados/wine-prefixes/tdu2
+system:
+  disable_compositor: true
+  disable_runtime: true
+  mangohud: vk64
+  prefer_system_libs: true
+wine:
+  Audio: alsa
+  MouseWarpOverride: enable
+  autoconf_joypad: true
+  fsr: false
+  version: system

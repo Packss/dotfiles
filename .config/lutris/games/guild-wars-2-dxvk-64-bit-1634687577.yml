@@ -1,0 +1,25 @@
+game:
+  arch: win64
+  args: ''
+  exe: /home/enzo/Downloads/blish-noaudio/arkpartVuXPjL/Blish HUD.exe
+  prefix: /home/enzo/Dados/Games/guild-wars-2
+system:
+  antimicro_config: ''
+  disable_compositor: true
+  disable_runtime: false
+  env:
+    DXVK_HUD: '0'
+    DXVK_LOG_LEVEL: none
+    STAGING_SHARED_MEMORY: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/enzo/Dados/Games/guild-wars-2
+    __NV_PRIME_RENDER_OFFLOAD: '1'
+  gamemode: false
+  prefix_command: env DRI_PRIME=1
+  vk_icd: /usr/share/vulkan/icd.d/radeon_icd.i686.json:/usr/share/vulkan/icd.d/radeon_icd.x86_64.json
+wine:
+  Desktop: false
+  WineDesktop: 1366x768
+  dxvk: true
+  esync: true
+  system_winetricks: false
+  version: lutris-fshack-6.14-4-x86_64
