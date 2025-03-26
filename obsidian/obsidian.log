@@ -1,0 +1,29 @@
+2025-03-06 13:12:40 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-06 13:12:40 Checking for update using Github
+2025-03-06 13:12:40 Success.
+2025-03-06 13:12:40 Latest version is 1.8.9
+2025-03-06 13:12:40 App is up to date.
+2025-03-06 14:12:39 Checking for update using Github
+2025-03-06 14:12:58 Success.
+2025-03-06 14:12:58 Latest version is 1.8.9
+2025-03-06 14:12:58 App is up to date.
+2025-03-06 17:25:16 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-06 17:25:16 Checking for update using Github
+2025-03-06 17:25:16 Success.
+2025-03-06 17:25:16 Latest version is 1.8.9
+2025-03-06 17:25:16 App is up to date.
+2025-03-11 13:04:11 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-11 13:04:11 Checking for update using Github
+2025-03-11 13:04:11 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-11 13:04:11 Checking for update using obsidian.md
+2025-03-11 13:04:11 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-11 14:31:24 Checking for update using Github
+2025-03-13 13:07:04 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-13 13:07:05 Checking for update using Github
+2025-03-13 13:07:05 Success.
+2025-03-13 13:07:05 Latest version is 1.8.9
+2025-03-13 13:07:05 App is up to date.
+2025-03-13 14:07:04 Checking for update using Github
+2025-03-13 14:07:04 Success.
+2025-03-13 14:07:04 Latest version is 1.8.9
+2025-03-13 14:07:04 App is up to date.
