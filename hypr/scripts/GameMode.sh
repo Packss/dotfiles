@@ -12,7 +12,7 @@ if [ "$HYPRGAMEMODE" = 1 ]; then
         keyword decoration:blur:enabled false;\
         keyword decoration:shadow:enabled false;\
         keyword decoration:drop_shadow 0;\
-	      keyword decoration:blur:passes 0;\
+	    keyword decoration:blur:passes 0;\
         keyword general:gaps_in 0;\
         keyword general:gaps_out 0;\
         keyword general:border_size 1;\

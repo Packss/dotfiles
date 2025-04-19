@@ -5,7 +5,7 @@
 iDIR="$HOME/.config/swaync/icons"
 notification_timeout=1000
 step=10 # INCREASE/DECREASE BY THIS VALUE
-device=amdgpu_bl1
+device=amdgpu_bl0
 
 # Get brightness
 get_backlight() {

@@ -94,6 +94,7 @@ i8042
 intel_rapl_common
 intel_rapl_msr
 iommufd
+ip_set
 ip_tables
 isofs
 jbd2
@@ -155,6 +156,7 @@ nvidia_wmi_ec_backlight
 nvme
 nvme_auth
 nvme_core
+nvme_keyring
 of_mdio
 overlay
 pcspkr
@@ -186,6 +188,7 @@ snd_acp6x_pdm_dma
 snd_acp_config
 snd_acp_legacy_common
 snd_acp_pci
+snd_amd_acpi_mach
 snd_amd_sdw_acpi
 snd_compress
 snd_hda_codec
@@ -295,8 +298,12 @@ xor
 xpad
 x_tables
 xt_addrtype
+xt_comment
 xt_conntrack
+xt_mark
 xt_MASQUERADE
+xt_set
+xt_tcpudp
 zenergy
 zenpower
 zram

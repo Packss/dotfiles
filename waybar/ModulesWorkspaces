@@ -182,9 +182,6 @@
 	"format-window-separator": " ",
 	"window-rewrite-default": " ",
 	"window-rewrite": {		
-		"title<.*amazon.*>": " ",
-		"title<.*reddit.*>": " ",
-
 		"class<firefox|org.mozilla.firefox|librewolf|floorp|mercury-browser|[Cc]achy-browser>": " ",
 		"class<zen>": "󰰷 ",
 		"class<waterfox|waterfox-bin>": " ",
@@ -206,7 +203,7 @@
 		"class<[Tt]elegram-desktop|org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": " ",
 		"class<discord|[Ww]ebcord|Vesktop>": " ",
 		"title<.*whatsapp.*>": " ",
-    "title<.*zapzap.*>": " ",
+        "title<.*zapzap.*>": " ",
 		"title<.*messenger.*>": " ",
 		"title<.*facebook.*>": " ",
 		"title<.*reddit.*>": " ",
@@ -234,10 +231,10 @@
 		"class<remmina>": "🖥️ ",
 
 		"class<VSCode|code-url-handler|code-oss|codium|codium-url-handler|VSCodium|code>": "󰨞 ",
-    "class<dev.zed.Zed>": "󰵁",
+        "class<dev.zed.Zed>": "󰵁",
 		"class<codeblocks>": "󰅩 ",
 		"title<.*github.*>": " ",
-		"class<mousepad>": " ",
+		"class<mousepad|org.pwmt.zathura>": " ",
 		"class<libreoffice-writer>": " ",
 		"class<libreoffice-startcenter>": "󰏆 ",
 		"class<libreoffice-calc>": " ",
@@ -255,13 +252,13 @@
 
 		"class<steam>": " ",
 		"class<thunar|nemo>": "󰝰 ",	
-    "class<Gparted>":"",
+        "class<Gparted|gnome-disks>":"",
 		"class<gimp>": " ",
 		"class<emulator>": "📱 ",
 		"class<android-studio>": " ",
-    "class<org.pipewire.Helvum>": "󰓃",
-    "class<localsend>":"",
-    "class<PrusaSlicer|UltiMaker-Cura|OrcaSlicer>": "󰹛",
+        "class<org.pipewire.Helvum>": "󰓃",
+        "class<localsend>":"",
+        "class<PrusaSlicer|UltiMaker-Cura|OrcaSlicer>": "󰹛",
 		}
 	},
 }
