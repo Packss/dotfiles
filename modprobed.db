@@ -41,6 +41,7 @@ cec
 cfg80211
 cls_u32
 cmac
+cp210x
 crc16
 crc32c_generic
 crc32c_intel
@@ -83,6 +84,7 @@ hid_generic
 hid_microsoft
 hid_multitouch
 hid_nintendo
+hid_playstation
 hid_xpadneo
 i2c_algo_bit
 i2c_dev
@@ -96,6 +98,7 @@ intel_rapl_msr
 iommufd
 ip_set
 ip_tables
+irqbypass
 isofs
 jbd2
 jfs
@@ -104,6 +107,7 @@ k10temp
 kvm
 kvm_amd
 kvmfr
+led_class_multicolor
 libarc4
 libcrc32c
 libdes

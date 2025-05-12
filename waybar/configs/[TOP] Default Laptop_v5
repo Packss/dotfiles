@@ -28,6 +28,7 @@
 	"custom/playerctl",
 	"custom/separator#blank_2",
 	"hyprland/window",
+    "hyprland/submap",
 	],
 
 "modules-center": [
