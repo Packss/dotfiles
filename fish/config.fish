@@ -5,3 +5,5 @@ end
 # Created by `pipx` on 2024-10-05 23:16:29
 set PATH $PATH /home/enzo/.local/bin
 set PATH $PATH /home/enzo/.cargo/bin
+
+thefuck --alias | source

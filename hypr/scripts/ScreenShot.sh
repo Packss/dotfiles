@@ -86,19 +86,6 @@ shotnow() {
 	notify_view
 }
 
-shot5() {
-	countdown '5'
-	sleep 1 && cd ${dir} && grim - | tee "$file" | wl-copy
-	sleep 1
-	notify_view
-}
-
-shot10() {
-	countdown '10'
-	sleep 1 && cd ${dir} && grim - | tee "$file" | wl-copy
-	notify_view
-}
-
 shotwin() {
 	w_pos=$(hyprctl activewindow | grep 'at:' | cut -d':' -f2 | tr -d ' ' | tail -n1)
 	w_size=$(hyprctl activewindow | grep 'size:' | cut -d':' -f2 | tr -d ' ' | tail -n1 | sed s/,/x/g)
@@ -126,31 +113,20 @@ shotactive() {
     notify_view "active"
 }
 
-shotswappy() {
-	tmpfile=$(mktemp)
-	grim -g "$(slurp)" - >"$tmpfile" && notify_view "swappy"
-}
-
 if [[ ! -d "$dir" ]]; then
 	mkdir -p "$dir"
 fi
 
 if [[ "$1" == "--now" ]]; then
 	shotnow
-elif [[ "$1" == "--in5" ]]; then
-	shot5
-elif [[ "$1" == "--in10" ]]; then
-	shot10
 elif [[ "$1" == "--win" ]]; then
 	shotwin
 elif [[ "$1" == "--area" ]]; then
 	shotarea
 elif [[ "$1" == "--active" ]]; then
 	shotactive
-elif [[ "$1" == "--swappy" ]]; then
-	shotswappy
 else
-	echo -e "Available Options : --now --in5 --in10 --win --area --active --swappy"
+	echo -e "Available Options : --now --win --area --active"
 fi
 
 exit 0

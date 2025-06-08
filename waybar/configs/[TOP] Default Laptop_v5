@@ -23,7 +23,8 @@
 
 "modules-left": [
 	"custom/separator#blank",
-	"custom/cava_mviz",
+	//"custom/cava_mviz",
+    "cava",
 	"custom/separator#blank",
 	"custom/playerctl",
 	"custom/separator#blank_2",

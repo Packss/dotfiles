@@ -168,7 +168,7 @@
 // NUMBERS and ICONS style with window rewrite 
 "hyprland/workspaces#rw": {
 	"disable-scroll": true,
-	"all-outputs": true,
+	"all-outputs": false,
 	"warp-on-scroll": false,
 	"sort-by-number": true,
 	"show-special": false,
